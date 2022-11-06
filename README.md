@@ -2,7 +2,7 @@
 
 #OUTPUT
 
-![OUTPUT!](output/Screenshot from 2022-11-06 08-15-13.png)
+![OUTPUT!](https://github.com/usama-DVLPR/React-Popup-Modal-With-Tailwind-CSS/blob/master/output/Screenshot%20from%202022-11-06%2008-15-13.png)
 
 
 ## Usage
